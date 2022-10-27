@@ -171,7 +171,7 @@
     "deleteGuild": "{you} Deleted {count} Guilds",
     "devPortalPageViewed": "{you} Viewed Discord's Dev Portal {count} times",
     "dmListViewed": "{you} Viewed {count} Direct Messages",
-    "emailOpened": "{you} {count} Emails Opened",
+    "emailOpened": "{you} Opened {count} Emails",
     "emailSent": "{you} Sent {count} Emails",
     "externalDynamicLinkReceived": "{you} Received {count} External Dynamic Links",
     "friendAddViewed": "{you} Viewed {count} Friend Requests",
